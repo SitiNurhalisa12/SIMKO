@@ -1,8 +1,8 @@
-# Tugas Besar Proyek 2 Semester 5
+# Tugas Besar Proyek Sistem Informasi Semester 6
 
 Nama Kelompok: 
-1. Aida Millati Mardiana NIM: 2041720071
-2. Cintya Aprila Fandini NIM: 2041720049
+1. Sabrina Putri Maulisa NIM: 2141764022
+2. Siti Nurhalisa        NIM: 2141764078
 
 # Pengaksesan Website 
 Rule Admin: 
